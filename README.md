@@ -24,6 +24,6 @@
 <br>
 
 ## **ARRAYS**
-<br> <br>
+<br>
 
 [**C Program to find the sum and average using array**](https://github.com/Rashob/College_Works/blob/master/ARRAY/array(sum%20and%20average%20).c)

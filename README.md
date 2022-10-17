@@ -26,4 +26,29 @@
 ## **ARRAYS**
 <br>
 
-[**C Program to find the sum and average using array**](https://github.com/Rashob/College_Works/blob/master/ARRAY/array(sum%20and%20average%20).c)
+- [**C Program to find the sum and average using array**](https://github.com/Rashob/College_Works/blob/master/ARRAY/array(sum%20and%20average%20).c)
+<br>
+
+- [**C Program to find biggest number using array**](ARRAY/biggestno.c)
+<br>
+
+- [**C Program to find smallest using array**](ARRAY/smallest.c)
+<br>
+
+- [**C Program to find the flbonacci number using array**](ARRAY/flbonacci.c)
+<br>
+<br>
+
+## **STRINGS**
+<br>
+
+- [**C Program to read string**](STRING/readstring.c)
+<br>
+
+- [**C Program to copy one string to another string**](STRING/cpstring.c)
+<br>
+
+- [**C program to find the length of the string**](STRING/Lengthofstring.c)
+<br>
+
+- [**C program to reverse the order of the string**](STRING/revsrtng.c)

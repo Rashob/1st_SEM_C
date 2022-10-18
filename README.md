@@ -43,13 +43,10 @@
 <br>
 
 - [**C Program to read string**](STRING/readstring.c)
-<br>
 
 - [**C Program to copy one string to another string**](STRING/cpstring.c)
-<br>
 
 - [**C program to find the length of the string**](STRING/Lengthofstring.c)
-<br>
 
 - [**C program to reverse the order of the string**](STRING/revsrtng.c)
 

@@ -51,3 +51,5 @@
 - [**C program to reverse the order of the string**](STRING/revsrtng.c)
 
 - [**C program to count  the number of vowels used in the Sentence**](STRING/vowel.c)
+
+- [**C program to concatinate (add) two strings**](STRING/concatination.c)
